@@ -1,5 +1,5 @@
 {
-  "name": "beast-ui",
+  "name": "@vamshi9666/beast-ui",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
