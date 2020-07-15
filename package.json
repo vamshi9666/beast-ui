@@ -3,12 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
-  "workspaces": {
-    "packages": [
-      "packages/*"
-    ]
-  },
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A react component library for react and react-native",
   "main": "index.js",
   "scripts": {
