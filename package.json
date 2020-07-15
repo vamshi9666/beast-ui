@@ -1,0 +1,28 @@
+{
+  "private": true,
+  "name": "beast-ui",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ]
+  },
+  "version": "0.0.1",
+  "description": "A react component library for react and react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/vamshi9666/beast-ui.git"
+  },
+  "author": "vamshi9666@riseup.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vamshi9666/beast-ui/issues"
+  },
+  "homepage": "https://github.com/vamshi9666/beast-ui#readme",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  }
+}
