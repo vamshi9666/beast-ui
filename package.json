@@ -1,8 +1,5 @@
 {
   "name": "@vamshi9666/beast-ui",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "version": "0.0.3",
   "description": "A react component library for react and react-native",
   "main": "index.js",
