@@ -1,6 +1,8 @@
 {
-  "private": true,
-  "name": "beast-ui",
+  "name": "@vamshi9666/beast",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "workspaces": {
     "packages": [
       "packages/*"
