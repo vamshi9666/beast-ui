@@ -145,5 +145,6 @@
   },
   "dependencies": {
     "react-native-paper": "^3.10.1"
-  }
+  },
+  "gitHead": "191a5bb508c0ebd23cde64fc13d2714d5134184b"
 }
